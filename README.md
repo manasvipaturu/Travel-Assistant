@@ -26,7 +26,7 @@ source venv/bin/activate # On Windows, use 'venv\Scripts\activate'
 
 pip install -r requirements.txt
  
-4. Replace `'YOUR_API_KEY'` in `assistant.py` with your actual OpenAI API key.
+4. Replace `'API_KEY'` in `assistant.py` with your actual OpenAI API key.
 
 ### Usage
 
