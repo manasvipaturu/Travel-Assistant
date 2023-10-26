@@ -1,0 +1,15 @@
+{
+    "New York": {
+      "temperature": "22°C",
+      "conditions": "Partly cloudy"
+    },
+    "Paris": {
+      "temperature": "18°C",
+      "conditions": "Sunny"
+    },
+    "Tokyo": {
+      "temperature": "25°C",
+      "conditions": "Clear"
+    }
+  }
+  

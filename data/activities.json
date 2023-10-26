@@ -1,0 +1,12 @@
+{
+    "New York": {
+      "activities": ["Empire State Building", "Central Park", "Statue of Liberty"]
+    },
+    "Paris": {
+      "activities": ["Eiffel Tower", "Louvre Museum", "Notre-Dame Cathedral"]
+    },
+    "Tokyo": {
+      "activities": ["Tokyo Tower", "Akihabara Electric Town", "Meiji Shrine"]
+    }
+  }
+  

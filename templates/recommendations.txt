@@ -1,0 +1,4 @@
+I recommend the following places in {city}:
+- Hotels: {hotels}
+- Restaurants: {restaurants}
+- Activities: {activities}

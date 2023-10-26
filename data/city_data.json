@@ -1,0 +1,15 @@
+{
+    "New York": {
+      "hotels": ["Hotel A", "Hotel B", "Hotel C"],
+      "restaurants": ["Restaurant X", "Restaurant Y", "Restaurant Z"]
+    },
+    "Paris": {
+      "hotels": ["Hotel 1", "Hotel 2", "Hotel 3"],
+      "restaurants": ["Cafe P", "Bistro Q", "Brasserie R"]
+    },
+    "Tokyo": {
+      "hotels": ["Hotel Alpha", "Hotel Beta", "Hotel Gamma"],
+      "restaurants": ["Sushi S", "Tempura T", "Ramen U"]
+    }
+  }
+  

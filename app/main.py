@@ -1,6 +1,6 @@
 # main.py
 import argparse
-from assistant import TravelAssistant
+from app.assistant import TravelAssistant
 
 def main():
     parser = argparse.ArgumentParser(description="Travel Assistant")
