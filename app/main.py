@@ -1,8 +1,7 @@
-# Import necessary libraries
 import argparse
 from app.assistant import TravelAssistant
 
-# Define the main function for the Travel Assistant
+# main function for the Travel Assistant
 def main():
     # Create a command-line argument parser
     parser = argparse.ArgumentParser(description="Travel Assistant")
