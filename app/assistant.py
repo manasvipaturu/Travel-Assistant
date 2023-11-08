@@ -19,7 +19,7 @@ class TravelAssistant:
 
     # Provide recommendations for a specific city
     def recommend_city(self, city):
-        # Load city data from a JSON file
+        # Load city data from a JSON file (from available options as of now)
         with open('data/city_data.json', 'r') as file:
             city_data = json.load(file)
 
