@@ -35,7 +35,7 @@ class TravelAssistant:
 
                 # Populate the response template with data
                 response = template.format(city=city, hotels=', '.join(hotels), restaurants=', '.join(restaurants), activities=', '.join(activities))
-
+        #add error handling and a user-friendly response for cases where the requested city is not found in the data.
         return response
 
 
